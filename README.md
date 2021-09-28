@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikolasjklein
+- 👀 I’m interested in creating awesome video games!
+- 🌱 I’m currently learning to program in C++
+- 📫 How to reach me: the@nikolasjklein.com
